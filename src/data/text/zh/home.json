@@ -1,0 +1,90 @@
+{
+  "hero": {
+    "title": "全球最大的版税市场",
+    "subtitle": "创作者的无债资助。财务安全。艺术自由。",
+    "cta": "获取目录交易估价"
+  },
+  "partners": {
+    "title": "受领先品牌信赖"
+  },
+  "stats": {
+    "title": "我们的数字影响力",
+    "stats": [
+      {
+        "number": "$200M+",
+        "label": "版权持有者筹集的资金"
+      },
+      {
+        "number": "2,300+",
+        "label": "完成交易"
+      }
+    ]
+  },
+  "products": {
+    "title": "特色收藏",
+    "items": [
+      {
+        "title": "权利终身",
+        "description": "Lil Baby, 42 Dugg, Quavo + 更多出版版税",
+        "price": "$400,000",
+        "link": "/product/1"
+      },
+      {
+        "title": "固定回报",
+        "description": "电视和广告音乐",
+        "price": "$150,000",
+        "link": "/product/2"
+      },
+      {
+        "title": "权利终身",
+        "description": "电视和广告音乐",
+        "price": "开放",
+        "link": "/product/3"
+      },
+      {
+        "title": "权利终身",
+        "description": "AP Dhillon Abraham Mateo, Ana Mena + 更多出版设计",
+        "price": "$450,000",
+        "link": "/product/4"
+      },
+      {
+        "title": "限量版",
+        "description": "独家计时器，带编号版和特殊包装。",
+        "price": "$6,500",
+        "link": "/product/5"
+      }
+    ]
+  },
+  "services": {
+    "title": "我们做什么",
+    "description": "皇家交易所将寻求资助的创作者与寻求目录的投资者配对。这使创作者能够无债务地筹集资金并资助其职业生涯，同时让投资者能够接触到一种新的高收益资产类别。",
+    "cta": ""
+  },
+  "dualImage": {
+    "leftTitle": "音乐创作者",
+    "leftSubtitle": "无债务筹集资金 设定您自己的条款",
+    "leftCta": "获取免费估价",
+    "rightTitle": "投资者",
+    "rightSubtitle": "访问产生收入的资产 预审、验证的清单",
+    "rightCta": "探索遗产"
+  },
+  "feature": {
+    "title": "eXchange",
+    "subtitle": "交易发生的地方。这是一个开放、透明的市场，连接创作者与投资者。",
+    "subtitle1": "加入30,000名注册投资者，直接对数百种版税资产提出报价 - 从音乐目录到商标版税。新资产每周上市。",
+    "subtitle2": "所有上市资产均有历史收入，由我们团队审核并可今日接受报价。",
+    "cta": "前往eXchange"
+  },
+  "newsletter": {
+    "title": "获取交易更新",
+    "subtitle": "订阅以获取市场上的每笔交易通知。",
+    "placeholder": "输入您的电子邮件",
+    "options": ["投资", "筹集资金", "收藏", "赠送"],
+    "cta": "订阅"
+  },
+  "finalCta": {
+    "title": "开始使用皇家交易所",
+    "cta1": "获取目录估价",
+    "cta2": "创建投资者账户"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "hero": {
+    "title": "Pricing Plans for {website.name}",
+    "description": "Choose the perfect plan to unlock the power of royalty investments with {website.name}.\nFlexible options designed for investors and creators alike."
+  },
+  "plans": {
+    "title": "Our Pricing Plans",
+    "items": [
+      {
+        "name": "Free Plan",
+        "price": "$0/month",
+        "description": "Get started with basic access to {website.name}’s marketplace.",
+        "features": [
+          "Access to public listings",
+          "Basic market insights",
+          "Limited bidding opportunities",
+          "Standard support"
+        ],
+        "ctaText": "Get Started",
+        "ctaLink": "/signup"
+      },
+      {
+        "name": "Pro Plan",
+        "price": "Contact for Pricing",
+        "description": "Enhanced access for serious investors and creators.",
+        "features": [
+          "Access to exclusive listings",
+          "Advanced market analytics",
+          "Priority bidding",
+          "Dedicated support"
+        ],
+        "ctaText": "Contact Us",
+        "ctaLink": "/contact-us"
+      },
+      {
+        "name": "All Access Membership",
+        "price": "Contact for Pricing",
+        "description": "Premium access for building a robust royalty portfolio.",
+        "features": [
+          "All Pro Plan features",
+          "In-depth analysis and insights",
+          "Early access to new assets",
+          "Discounted transaction fees"
+        ],
+        "ctaText": "Explore Membership",
+        "ctaLink": "/membership"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "What is included in the Free Plan?",
+        "answer": "The Free Plan provides access to public listings, basic market insights, limited bidding opportunities, and standard support to help you get started with {website.name}."
+      },
+      {
+        "question": "How do I upgrade to the Pro Plan or All Access Membership?",
+        "answer": "To upgrade, contact our team through the Contact Us page. We’ll guide you through the process and provide tailored pricing details based on your needs."
+      },
+      {
+        "question": "Can I switch plans later?",
+        "answer": "Yes, you can upgrade or downgrade your plan at any time by contacting our support team. Changes will take effect at the start of the next billing cycle."
+      },
+      {
+        "question": "Does {website.name} offer refunds?",
+        "answer": "Refunds are handled on a case-by-case basis. Please refer to our Terms of Use or contact support for more information on our refund policy."
+      }
+    ]
+  }
+}

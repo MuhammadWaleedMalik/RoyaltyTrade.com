@@ -1,0 +1,71 @@
+{
+  "hero": {
+    "title": "Planes de precios para {website.name}",
+    "description": "Elige el plan perfecto para desbloquear el poder de las inversiones en regalías con {website.name}.\nOpciones flexibles diseñadas tanto para inversores como para creadores."
+  },
+  "plans": {
+    "title": "Nuestros planes de precios",
+    "items": [
+      {
+        "name": "Plan Gratis",
+        "price": "$0/mes",
+        "description": "Comienza con acceso básico al mercado de {website.name}.",
+        "features": [
+          "Acceso a listados públicos",
+          "Información básica del mercado",
+          "Oportunidades de puja limitadas",
+          "Soporte estándar"
+        ],
+        "ctaText": "Comenzar",
+        "ctaLink": "/signup"
+      },
+      {
+        "name": "Plan Pro",
+        "price": "Contactar para precio",
+        "description": "Acceso mejorado para inversores y creadores serios.",
+        "features": [
+          "Acceso a listados exclusivos",
+          "Análisis avanzados del mercado",
+          "Prioridad en pujas",
+          "Soporte dedicado"
+        ],
+        "ctaText": "Contáctanos",
+        "ctaLink": "/contact-us"
+      },
+      {
+        "name": "Membresía Todo Acceso",
+        "price": "Contactar para precio",
+        "description": "Acceso premium para construir una cartera sólida de regalías.",
+        "features": [
+          "Todas las características del Plan Pro",
+          "Análisis e información detallada",
+          "Acceso anticipado a nuevos activos",
+          "Descuentos en comisiones de transacción"
+        ],
+        "ctaText": "Explorar Membresía",
+        "ctaLink": "/membership"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "items": [
+      {
+        "question": "¿Qué incluye el Plan Gratis?",
+        "answer": "El Plan Gratis ofrece acceso a listados públicos, información básica del mercado, oportunidades de puja limitadas y soporte estándar para ayudarte a comenzar con {website.name}."
+      },
+      {
+        "question": "¿Cómo actualizo al Plan Pro o Membresía Todo Acceso?",
+        "answer": "Para actualizar, contacta a nuestro equipo a través de la página de Contáctanos. Te guiaremos en el proceso y te daremos detalles de precios adaptados a tus necesidades."
+      },
+      {
+        "question": "¿Puedo cambiar de plan más tarde?",
+        "answer": "Sí, puedes actualizar o degradar tu plan en cualquier momento contactando a nuestro equipo de soporte. Los cambios se aplicarán al inicio del siguiente ciclo de facturación."
+      },
+      {
+        "question": "¿{website.name} ofrece reembolsos?",
+        "answer": "Los reembolsos se manejan caso por caso. Consulta nuestros Términos de Uso o contacta soporte para más información sobre nuestra política de reembolsos."
+      }
+    ]
+  }
+}

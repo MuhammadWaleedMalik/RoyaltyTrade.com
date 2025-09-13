@@ -1,0 +1,33 @@
+{
+  "hero": {
+    "title": "Blog de {website.name}",
+    "description": "Descubre las últimas ideas, consejos y actualizaciones sobre la gestión de activos digitales e inversiones en regalías."
+  },
+  "readMore": "Leer más",
+  "posts": [
+    {
+      "title": "Por qué las regalías musicales son una inversión atractiva",
+      "excerpt": "Los ingresos editoriales musicales crecieron un 12% en 2023, superando el crecimiento del 9,1% de los ingresos comerciales de los sellos discográficos. Esto impulsó los ingresos editoriales globales de música a más de 10.100 millones de dólares, subrayando el peso creciente del sector. MIDiA Research publicó su pronóstico global de publicación musical 2024-2031, señalando los factores de este crecimiento. Mencionó la recuperación de los ingresos en vivo tras la COVID y las mejores tasas de regalías del streaming como factores clave. El crecimiento del streaming musical ha persistido, y las mejores colocaciones y negociaciones han impulsado este esfuerzo continuo. Según MIDiA, la maduración del mercado de streaming ha permitido a los editores luchar por una mayor parte de la economía del streaming. Una cabildeo eficaz y estrategias de licencias garantizaron mejores condiciones de regalías, en particular de plataformas como TikTok y Meta. Esto significa que vivimos en una era en la que la edición musical está liderada por el streaming, que representó más del 50% de los ingresos totales en 2022. Según MIDiA, los ingresos globales de publicación musical podrían casi duplicarse para 2031, lo que indica un gran potencial de crecimiento a largo plazo.",
+      "image": "https://cdn.prod.website-files.com/6054f29c2e8de89ac6387e49/66c4cfe3735f5cb2e082e07b_655e0fa544c67c1ee5ce046b_music-publishing-explained-for-musicians.webp",
+      "slug": "/blog/maximize-royalty-investments"
+    },
+    {
+      "title": "El futuro de la gestión de activos digitales",
+      "excerpt": "Los servicios de streaming han cambiado la forma en que escuchamos música y han transformado la industria musical de manera sorprendente en los últimos diez años. El streaming musical se ha convertido en una parte esencial de nuestra vida diaria, dándonos acceso a millones de canciones en cualquier momento. Pero, ¿alguna vez te has preguntado quién se beneficia de este enorme cambio en la forma de consumir música? La respuesta está en las regalías musicales: pagos hechos a los propietarios de derechos de propiedad intelectual musical cada vez que su música se usa o interpreta. A medida que los inversionistas buscan nuevas oportunidades de crecimiento y diversificación, las regalías musicales han surgido como una gran oportunidad de inversión. Con la industria musical mundial proyectada en 145 mil millones de dólares para 2025, no es de extrañar que los inversionistas estén prestando atención. ¿Qué hace que las regalías musicales sean una clase de activos tan atractiva? ¿Es el potencial de ingresos estables y crecientes, la promesa de flujos recurrentes o la ventaja de diversificar una cartera con un activo no correlacionado?",
+      "image": "https://cdn.prod.website-files.com/6054f29c2e8de89ac6387e49/66be7508dace217765f78abb_Money-Music-Shutterstock-p-1080.webp",
+      "slug": "/blog/future-digital-asset-management"
+    },
+    {
+      "title": "Cómo funciona el financiamiento de capital para regalías musicales",
+      "excerpt": "Algunos de ustedes tendrán que tomar decisiones difíciles en los próximos meses y quiero brindarles todas las herramientas necesarias para superar esta crisis y salir más fuertes que antes. Pero antes de empezar, hay algo importante que considerar… Vender tu catálogo puede que no sea la decisión correcta para ti. Esto puede sonar extraño, ya que nuestro negocio es cerrar acuerdos de catálogos. Pero en realidad, nuestro objetivo es ayudar a los artistas a lograr libertad financiera. En muchos casos, vender tu catálogo no es la mejor estrategia para ese objetivo. No estaríamos en el negocio desde hace tanto tiempo, ni tendríamos tantos clientes recurrentes, si alentáramos malas decisiones financieras.",
+      "image": "https://cdn.prod.website-files.com/6054f29c2e8de89ac6387e49/6078a64b0223474b976e5dbb_financing-guides-p-1080.png",
+      "slug": "/blog/future-digital-asset-management"
+    },
+    {
+      "title": "Cómo funciona el financiamiento de capital para regalías musicales",
+      "excerpt": "En lugar de pasar semanas o meses recopilando registros financieros y verificando derechos, Royalty Exchange agiliza este proceso con herramientas automatizadas de seguimiento y verificación de regalías. Una vez que publiques tu catálogo, el mercado de Royalty Exchange lo presenta a miles de inversionistas pre-calificados, eliminando la molestia de buscar compradores manualmente. Requisitos legales: Navegar por los aspectos legales del financiamiento de catálogos es crucial para una transacción fluida. Según la Ley de Derechos de Autor de 1976, los creadores pueden reclamar sus derechos de autor 40 años después de venderlos. Para proteger tus derechos y maximizar el valor de tu catálogo, asegúrate de cumplir con lo siguiente:",
+      "image": "https://cdn.prod.website-files.com/6054f29c2e8de89ac6387e49/67c8965cf086028588cf24f6_equity_financing_music_royalties-p-1600.jpeg",
+      "slug": "/blog/future-digital-asset-management"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "logoAlt": "Logo de {websiteName}",
+  "nav": {
+    "listings": "Listados",
+    "getFunding": "Obtener Financiación",
+    "invest": "Invertir",
+    "blog": "Blog",
+    "login": "Iniciar Sesión",
+    "signup": "Registrarse",
+    "logout": "Cerrar Sesión"
+  },
+  "languageSelector": {
+    "heading": "Idiomas",
+    "changeLanguageLabel": "Cambiar Idioma"
+  }
+}

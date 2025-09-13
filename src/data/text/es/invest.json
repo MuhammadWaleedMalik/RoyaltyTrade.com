@@ -1,0 +1,115 @@
+{
+  "hero": {
+    "title": "Rendimiento no correlacionado. Ingresos pasivos.",
+    "description": "{website.name} ofrece a los inversores minoristas e institucionales acceso a flujos de regalías que antes solo estaban disponibles para personas del sector, fondos privados o institucionales.",
+    "cta": "Crear una cuenta"
+  },
+  "stats": [
+    {
+      "value": "13.3%+",
+      "label": "RENDIMIENTO Promedio"
+    },
+    {
+      "value": "2,300+",
+      "label": "TRANSACCIONES COMPLETADAS"
+    },
+    {
+      "value": "$200M+",
+      "label": "Volumen de Transacciones"
+    }
+  ],
+  "assets": {
+    "title": "Activos Destacados",
+    "items": [
+      {
+        "title": "‘Black Water’ de The Doobie Brothers y otras canciones",
+        "description": "Invierte en las regalías editoriales de este catálogo musical icónico.",
+        "term": "10 Años",
+        "royaltyType": "Publicación",
+        "price": "$160,000",
+        "multiple": "6.6x",
+        "yield": "15%"
+      },
+      {
+        "title": "Clásico de comedia de 1983: Entre pillos anda el juego",
+        "description": "Posee una participación en los ingresos residuales de esta querida comedia.",
+        "term": "Duración de los derechos",
+        "royaltyType": "Residuos de cine",
+        "price": "$140,300",
+        "multiple": "17.5x",
+        "yield": "6%"
+      },
+      {
+        "title": "Materiales Educativos Infantiles",
+        "description": "Invierte en regalías de marcas registradas para contenido educativo.",
+        "term": "10 Años",
+        "royaltyType": "Marca registrada",
+        "price": "$1,047,500",
+        "multiple": "5.3x",
+        "yield": "19%"
+      }
+    ]
+  },
+  "whyRoyalties": {
+    "title": "Por qué las regalías deben estar en tu portafolio",
+    "items": [
+      {
+        "title": "Activos no correlacionados",
+        "description": "Los pagos de regalías, especialmente los musicales, funcionan independientemente de los mercados públicos, convirtiéndolos en la forma más pura de inversión alternativa."
+      },
+      {
+        "title": "Rendimiento competitivo",
+        "description": "Las regalías tienen un historial de ingresos sólidos, con el potencial de generar rendimientos de dos dígitos que rivalizan con bonos y acciones con dividendos."
+      },
+      {
+        "title": "Ingresos pasivos",
+        "description": "Las regalías te permiten ganar dinero mientras duermes. Son un 'corte directo', pagado regularmente, que te coloca primero en la fila para recibir los flujos de efectivo que generan."
+      }
+    ],
+    "cta": "Leer la tesis de inversión"
+  },
+  "membership": {
+    "title": "Membresía All Access",
+    "description": "Los inversores que buscan construir rápidamente un portafolio de activos de regalías pueden mejorar a nuestro exclusivo programa All Access. Esto les brinda análisis e información detallada, acceso prioritario a activos, grandes descuentos y más.",
+    "cta": "Explorar la membresía",
+    "quote": {
+      "text": "Los fondos enfocados en regalías musicales están ganando terreno a medida que los inversores se desvían del camino tradicional en busca de rendimiento.",
+      "source": "Wall Street Journal, 22 de septiembre de 2019"
+    }
+  },
+  "investing": {
+    "title": "Invertir en regalías es fácil",
+    "items": [
+      {
+        "title": "Estructuración de activos",
+        "description": "{website.name} hace que las regalías sean invertibles al estructurarlas en formatos familiares: Basado en plazo (generalmente 10 años) y Duración de derechos (vida del creador MÁS 70 años)."
+      },
+      {
+        "title": "Apoyo en valoración",
+        "description": "Comprender las características clave del rendimiento de las regalías es fundamental para invertir con confianza. {website.name} ayuda a los inversores a construir una metodología de valoración y determinar el tamaño de la posición mediante métricas detalladas."
+      },
+      {
+        "title": "Mitigación de riesgos",
+        "description": "{website.name} examina y verifica todas las oportunidades de regalías antes de listarlas en el mercado. Esto minimiza disputas de propiedad. Nuestros contratos legalmente vinculantes reducen el riesgo de transacción."
+      },
+      {
+        "title": "Desarrollo de portafolio flexible",
+        "description": "Adquiere regalías directamente de los titulares de derechos u otros inversores. Haz ofertas manuales o deja ofertas permanentes que se llenen automáticamente con nuevas oportunidades que cumplan tus criterios."
+      }
+    ],
+    "cta": "Ver lo fácil que es invertir"
+  },
+  "getStarted": {
+    "title": "Comienza a Invertir",
+    "items": [
+      "Sé el primero en enterarte de nuevas oportunidades de inversión en regalías (usualmente tres por semana).",
+      "Haz ofertas en subastas o compra regalías directamente a otros inversores en el mercado.",
+      "Accede a recursos educativos detallados sobre tipos de regalías, inversión en regalías, noticias y más."
+    ],
+    "cta": "Crear una cuenta gratuita"
+  },
+  "exchange": {
+    "title": "El eXchange",
+    "description": "El eXchange es la forma en que ponemos cientos de catálogos musicales a disposición de más de 30,000 inversores registrados. La transparencia está en el corazón de cada trato que hacemos, por eso puedes ver cada oferta y cada acuerdo en el eXchange."
+  }
+}

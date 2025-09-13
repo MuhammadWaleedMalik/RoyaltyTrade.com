@@ -1,0 +1,48 @@
+{
+  "brand": {
+    "nameAlt": "Royalty Exchange",
+    "slogan": ""
+  },
+  "sections": [
+    {
+      "title": "Inversores",
+      "links": [
+        { "path": "/about-investing", "label": "Acerca de la Inversión" },
+        { "path": "/how-royalties-work", "label": "Cómo Funcionan las Regalías" },
+        { "path": "/create-an-account", "label": "Crear una Cuenta" }
+      ]
+    },
+    {
+      "title": "Creadores de Música",
+      "links": [
+        { "path": "/how-it-works", "label": "Cómo Funciona" },
+        { "path": "/selling-royalties", "label": "Vender Regalías" },
+        { "path": "/get-a-free-valuation", "label": "Obtener una Valoración Gratuita" }
+      ]
+    },
+    {
+      "title": "Compañía",
+      "links": [
+        { "path": "/about", "label": "Acerca de Nosotros" },
+        { "path": "/company-news", "label": "Noticias de la Compañía" },
+        { "path": "/faq", "label": "Preguntas Frecuentes" },
+        { "path": "/contact-us", "label": "Contáctenos" },
+        { "path": "/careers", "label": "Carreras" }
+      ]
+    }
+  ],
+  "social": {
+    "links": [
+      { "name": "Facebook", "link": "https://facebook.com" },
+      { "name": "X", "link": "https://x.com" },
+      { "name": "LinkedIn", "link": "https://linkedin.com" },
+      { "name": "YouTube", "link": "https://youtube.com" }
+    ]
+  },
+  "copyright": {
+    "text": "Copyright © 2021 Royalty Exchange. Todos los derechos reservados.",
+    "privacy": "1501 Larimer St. #700, Denver, CO 80202 EE.UU.",
+    "cookies": "+1-800-718-2269",
+    "terms": "El uso de este sitio web constituye la aceptación de los Términos de Uso y la Política de Privacidad. Este sitio web ('Sitio') es operado por Royalty Exchange. Al acceder al Sitio y a cualquiera de sus páginas, usted acepta estar sujeto a sus Términos de Uso y Política de Privacidad. El Sitio está destinado al uso personal de sus visitantes y Royalty Exchange no puede garantizar la completitud o exactitud de la información presentada en cualquiera de sus páginas. Royalty Exchange no hace recomendaciones de inversión ni proporciona asesoramiento legal o financiero, y ninguna comunicación debe considerarse una recomendación de cualquier oportunidad de inversión y no se puede garantizar que cualquier valoración de inversión sea precisa o que cualquier oportunidad de inversión sea adecuada para un inversor en particular."
+  }
+}

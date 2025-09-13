@@ -1,0 +1,84 @@
+{
+  "hero": {
+    "title": "Acerca de {website.name}",
+    "description": "Transformando la gestión de activos digitales a través de la innovación en IA.\nConstruyendo el futuro de la colaboración de contenidos y la automatización de flujos de trabajo."
+  },
+  "mission": "Creemos en el valor de las ideas y en el poder de los mercados. Con demasiada frecuencia, las ideas no se valoran de manera adecuada ni justa… como sucede con la música. Esto se debe a que la industria musical fue diseñada para beneficiar a unos pocos bien establecidos. Era un mercado cerrado que desalentaba la competencia, ocultaba la transparencia y dirigía la mayor parte del valor hacia los guardianes en lugar de hacia quienes realmente creaban la música. Solo el 1% superior de los artistas puede sobrevivir en sistemas cerrados como este, y cuando lo logran es a pesar de ellos, no gracias a ellos. Creemos que el valor de las ideas debe fluir hacia todos los creadores, no solo hacia los guardianes o el 1%. Por eso creamos un mercado abierto que ofrece a cualquier artista que genere regalías la posibilidad de compartirlas con cualquier inversionista interesado en pagar un precio justo. El resultado es la única solución que atiende al 99% de los artistas e inversionistas que fueron ignorados por el viejo sistema que estamos transformando. Ese es el poder de un mercado abierto… dirige el valor lejos de los intereses establecidos y lo coloca en manos de aquellos que antes fueron marginados: los creadores. Pero los mercados abiertos no solo dirigen el valor de las ideas hacia los creadores, también aumentan el valor de esas ideas. Una idea comercialmente exitosa es la moneda más significativa de nuestro tiempo. Es la única verdadera ventaja competitiva que queda. Los productos se rompen, los materiales se agotan, los formatos cambian. Pero las ideas perduran. Y eso las hace increíblemente valiosas. Las regalías son la manifestación tangible de estas ideas. Son activos que pueden comprarse, venderse y negociarse. Los mercados abiertos hacen que los activos sean más valiosos al proporcionar transparencia, descubrimiento de precios y competencia para satisfacer la demanda de los inversionistas. El resultado es un ganar-ganar para todos. Los inversionistas obtienen acceso a activos de regalías que antes no estaban disponibles para ellos, y la información que necesitan para tomar decisiones informadas. Los creadores, a su vez, pueden aprovechar esta demanda para encontrar inversionistas para su catálogo al mejor precio posible, recaudando dinero sin renunciar a sus derechos ni endeudarse. Nuestra misión es desbloquear el poder financiero de las ideas a través de un mercado transparente que reduzca la fricción entre las ideas y su valor. No compramos ni vendemos regalías. No ofrecemos anticipos ni préstamos. Simplemente operamos el mercado donde compradores y vendedores se encuentran y encuentran el valor que buscan. Cuanto mejor sirva este mercado tanto a creadores como a inversionistas, más saludable se volverá y mejor servirá a todos. Después de todo, no es nuestro mercado… es el tuyo.",
+  "team": {
+    "members": [
+      {
+        "name": "Jay Hajeer",
+        "title": "CEO y Fundador",
+        "bio": "Líder visionario con más de 15 años en IA y transformación digital. Fundó {website.name} para revolucionar la gestión de contenidos.",
+        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+      },
+      {
+        "name": "Sarah Chen",
+        "title": "Directora de Tecnología (CTO)",
+        "bio": "Experta en IA con doctorado en Visión por Computadora. Lidera nuestra innovación técnica y el desarrollo de productos.",
+        "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+      },
+      {
+        "name": "Michael Rodriguez",
+        "title": "Jefe de Producto",
+        "bio": "Estratega de producto apasionado por crear experiencias de usuario intuitivas en sistemas complejos.",
+        "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+      },
+      {
+        "name": "Emily Watson",
+        "title": "Ingeniera Líder de IA",
+        "bio": "Especialista en aprendizaje automático enfocada en desarrollar nuestros algoritmos principales de clasificación de IA.",
+        "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+      },
+      {
+        "name": "David Kim",
+        "title": "Vicepresidente de Ventas",
+        "bio": "Líder en ventas con experiencia en escalar plataformas SaaS y construir relaciones con clientes.",
+        "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+      },
+      {
+        "name": "Alexis Park",
+        "title": "Directora de Diseño UX",
+        "bio": "Diseñadora galardonada que crea experiencias fluidas entre humanos y sistemas de IA.",
+        "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+      },
+      {
+        "name": "James Wilson",
+        "title": "Científico de Datos",
+        "bio": "Construye los modelos predictivos que impulsan nuestro sistema inteligente de recomendación de contenidos.",
+        "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+      },
+      {
+        "name": "Olivia Martin",
+        "title": "Líder de Éxito del Cliente",
+        "bio": "Garantiza que nuestros clientes maximicen el valor de nuestra plataforma a través de capacitación y soporte.",
+        "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+      }
+    ]
+  },
+  "values": {
+    "items": [
+      {
+        "title": "Innovación",
+        "description": "Constantemente empujamos los límites para desarrollar soluciones de vanguardia que transformen la gestión de activos digitales."
+      },
+      {
+        "title": "Éxito del Cliente",
+        "description": "Los logros de nuestros clientes definen nuestro éxito. Estamos comprometidos a ofrecer valor medible."
+      },
+      {
+        "title": "Excelencia",
+        "description": "Perseguimos la excelencia en todo lo que hacemos, desde la calidad del código hasta la atención al cliente."
+      },
+      {
+        "title": "Colaboración",
+        "description": "Creemos que las mejores soluciones surgen cuando perspectivas diversas trabajan juntas hacia objetivos comunes."
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Listo para transformar la gestión de tus activos digitales?",
+    "description": "Únete a miles de empresas que utilizan {website.name} para desbloquear todo el potencial de su contenido digital.",
+    "linkText": "Comienza Hoy"
+  }
+}

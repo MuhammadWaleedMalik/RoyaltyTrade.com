@@ -1,0 +1,33 @@
+{
+  "hero": {
+    "title": "{website.name} 博客",
+    "description": "探索有关数字资产管理和版税投资的最新见解、技巧和更新。"
+  },
+  "readMore": "阅读更多",
+  "posts": [
+    {
+      "title": "为什么音乐版税是热门投资",
+      "excerpt": "2023年，音乐出版收入增长了12%，超过了唱片公司贸易收入的9.1%增长。这使全球音乐出版收入突破101亿美元，凸显了该行业的重要性。MIDiA Research 发布了 2024–2031 年全球音乐出版预测，指出增长驱动因素，包括疫情后现场演出的恢复和流媒体版税率的改善。流媒体市场的成熟使出版商能够争取更大份额。有效的游说和许可策略确保了更好的条件，特别是来自 TikTok 和 Meta 等新兴平台的条件。这意味着我们正处于由流媒体驱动的音乐出版时代。2022年，流媒体占行业总收入的50%以上。据 MIDiA 称，到2031年全球音乐出版收入可能几乎翻倍，显示出长期增长潜力。",
+      "image": "https://cdn.prod.website-files.com/6054f29c2e8de89ac6387e49/66c4cfe3735f5cb2e082e07b_655e0fa544c67c1ee5ce046b_music-publishing-explained-for-musicians.webp",
+      "slug": "/blog/maximize-royalty-investments"
+    },
+    {
+      "title": "数字资产管理的未来",
+      "excerpt": "流媒体服务改变了我们听音乐的方式，并在过去十年间以惊人的方式改变了音乐产业。音乐流媒体已成为我们日常生活的重要组成部分，使我们能够立即访问数百万首歌曲。但你是否想过，谁真正受益于这种巨大的消费方式变化？答案在于音乐版税——每当音乐被使用或演出时支付给知识产权持有者的费用。随着投资者寻求新的增长和多元化机会，音乐版税已成为热门投资机会。预计到2025年，全球音乐产业将达到1450亿美元，这吸引了众多投资者的关注。是什么让音乐版税成为如此有吸引力的资产类别？是稳定增长的收入潜力、可重复的收益，还是用非相关资产分散投资组合的好处？",
+      "image": "https://cdn.prod.website-files.com/6054f29c2e8de89ac6387e49/66be7508dace217765f78abb_Money-Music-Shutterstock-p-1080.webp",
+      "slug": "/blog/future-digital-asset-management"
+    },
+    {
+      "title": "音乐版税股权融资如何运作",
+      "excerpt": "在未来几个月里，你们中的一些人可能不得不做出艰难的决定。我希望为你提供一切必要的信息，以帮助你度过这场危机，并比以前更强大地走出来。但首先要考虑的一点是……出售你的目录可能并不是正确的决定。这听起来可能很奇怪，因为我们的业务就是目录交易。但最终，我们的目标是帮助艺术家实现财务自由。在许多情况下，出售目录并不是最佳策略。如果我们鼓励不良财务决策，我们就不会在行业中长期存在，也不会拥有如此多的回头客。",
+      "image": "https://cdn.prod.website-files.com/6054f29c2e8de89ac6387e49/6078a64b0223474b976e5dbb_financing-guides-p-1080.png",
+      "slug": "/blog/future-digital-asset-management"
+    },
+    {
+      "title": "音乐版税股权融资如何运作",
+      "excerpt": "与其花费数周甚至数月时间收集财务记录和验证权利，Royalty Exchange 通过自动化的版税跟踪和验证工具简化了这一过程，这些工具能够验证你的收入来源。一旦你列出目录，Royalty Exchange 的市场就会将其展示给数千名经过预先认证的投资者，省去手动寻找买家的麻烦。法律要求：在处理目录融资时，遵循法律规定至关重要。根据1976年版权法，创作者可在出售40年后收回版权。为了保护你的权益并最大化目录价值，请确保以下几点：",
+      "image": "https://cdn.prod.website-files.com/6054f29c2e8de89ac6387e49/67c8965cf086028588cf24f6_equity_financing_music_royalties-p-1600.jpeg",
+      "slug": "/blog/future-digital-asset-management"
+    }
+  ]
+}

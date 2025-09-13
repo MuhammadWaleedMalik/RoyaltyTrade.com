@@ -1,0 +1,36 @@
+{
+  "hero": {
+    "title": "{website.name} Blog",
+    "description": "Discover the latest insights, tips, and updates on digital asset management and royalty investments."
+  },
+  "readMore": "Read More",
+  "posts": [
+    {
+      "title": "Why Music Royalties Are a Hot Investment",
+      "excerpt": "Music publishing revenues climbed 12% in 2023 to outperform the 9.1% growth in record label trade revenues. That pushed global music publishing revenues past $10.1 billion, underscoring the growing heft of the sector.MIDiA Research has released its 2024-2031 global music publishing forecast, noting the drivers of that growth. It mentioned the recovery of live revenues post-COVID and improved royalty rates from streaming for the increase. Growth in music streaming has persisted, and better-placement and negotiation have accounted for much of that continued effort.According to MIDiA, maturation of the streaming marketplace has meant that publishers have been able to fight for a greater piece of the streaming economy. Effective lobbying and licensing strategies ensured improved terms for royalties, in particular, from new-fangled platforms like TikTok and Meta. What this means is that we are living in an era of music publishing businesses led by streaming, as streaming contributed more than a 50% share of total industry revenue in the year 2022. According to MIDiA, global music publishing revenues might almost double by 2031 and strongly indicate potential for long-term growth.",
+      "image": "https://cdn.prod.website-files.com/6054f29c2e8de89ac6387e49/66c4cfe3735f5cb2e082e07b_655e0fa544c67c1ee5ce046b_music-publishing-explained-for-musicians.webp",
+      "slug": "/blog/maximize-royalty-investments"
+    },
+    {
+      "title": "The Future of Digital Asset Management",
+      "excerpt": "Streaming services have changed the way we listen to music and have caused the music industry to change in amazing ways over the last ten years.Music streaming has become an important part of our daily lives, and we can access millions of songs right now. But have you ever thought about who benefits from this huge change in how people listen to music? The answer lies in music royalties – payments made to the owners of music intellectual property (IP) rights every time their music is used or performed.As investors seek new opportunities for growth and diversification, music royalties have emerged as a hot investment opportunity. With the global music industry projected to reach $145 billion by 2025, it's no wonder investors are taking notice. But what makes music royalties an attractive asset class? Is it the potential for stable and growing revenue, the promise of recurring income streams, or the benefits of diversifying a portfolio with an uncorrelated asset class?",
+      "image": "https://cdn.prod.website-files.com/6054f29c2e8de89ac6387e49/66be7508dace217765f78abb_Money-Music-Shutterstock-p-1080.webp",
+      "slug": "/blog/future-digital-asset-management"
+    } ,
+    
+    {
+      "title": "How Equity Financing Works for Music Royalties",
+      "excerpt": "Some of you may have to make tough decisions in the coming months and I want to arm you with everything you need to weather this crisis, but emerge from it in better shape than before.But before we get started, there’s something to think about upfront… Selling your catalog might not be the right decision for you.Now that might seem like an odd thing for me to say because I’m in the business of doing catalog deals. That’s all Royalty Exchange does. And if nobody sold their royalties… then we’d go out of business.But ultimately, we’re in the business of helping artists gain financial freedom. And in many cases, selling your catalog isn’t the best strategy for that goal. We wouldn’t be in business as long as we have, or have as many repeat customers as we do, if we encouraged bad financial decisions.",
+      "image": "https://cdn.prod.website-files.com/6054f29c2e8de89ac6387e49/6078a64b0223474b976e5dbb_financing-guides-p-1080.png",
+      "slug": "/blog/future-digital-asset-management"
+    }
+    ,
+   {
+      "title": "How Equity Financing Works for Music Royalties",
+      "excerpt": "Instead of spending weeks or even months gathering financial records and verifying rights, Royalty Exchange streamlines this process by integrating automated royalty tracking and verification tools that verify your revenue streams.Once you list your catalog, Royalty Exchange’s marketplace presents it to thousands of pre-qualified investors, eliminating the hassle of manually finding and pitching to buyers.Legal RequirementsNavigating the legal aspects of catalog financing is crucial for a smooth transaction.Under the 1976 Copyright Act, creators can reclaim copyrights 40 years after selling them.To protect your rights and maximize the value of your catalog, ensure the following:",
+      "image": "https://cdn.prod.website-files.com/6054f29c2e8de89ac6387e49/67c8965cf086028588cf24f6_equity_financing_music_royalties-p-1600.jpeg",
+      "slug": "/blog/future-digital-asset-management"
+    }
+    
+  ]
+}

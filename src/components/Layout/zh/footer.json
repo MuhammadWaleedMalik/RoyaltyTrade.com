@@ -1,0 +1,48 @@
+{
+  "brand": {
+    "nameAlt": "皇家交易所",
+    "slogan": ""
+  },
+  "sections": [
+    {
+      "title": "投资者",
+      "links": [
+        { "path": "/about-investing", "label": "关于投资" },
+        { "path": "/how-royalties-work", "label": "版税如何运作" },
+        { "path": "/create-an-account", "label": "创建账户" }
+      ]
+    },
+    {
+      "title": "音乐创作者",
+      "links": [
+        { "path": "/how-it-works", "label": "工作原理" },
+        { "path": "/selling-royalties", "label": "出售版税" },
+        { "path": "/get-a-free-valuation", "label": "获取免费估值" }
+      ]
+    },
+    {
+      "title": "公司",
+      "links": [
+        { "path": "/about", "label": "关于我们" },
+        { "path": "/company-news", "label": "公司新闻" },
+        { "path": "/faq", "label": "常见问题" },
+        { "path": "/contact-us", "label": "联系我们" },
+        { "path": "/careers", "label": "职业机会" }
+      ]
+    }
+  ],
+  "social": {
+    "links": [
+      { "name": "Facebook", "link": "https://facebook.com" },
+      { "name": "X", "link": "https://x.com" },
+      { "name": "LinkedIn", "link": "https://linkedin.com" },
+      { "name": "YouTube", "link": "https://youtube.com" }
+    ]
+  },
+  "copyright": {
+    "text": "版权 © 2021 皇家交易所。版权所有。",
+    "privacy": "美国科罗拉多州丹佛市拉里默街1501号700室，邮编80202",
+    "cookies": "+1-800-718-2269",
+    "terms": "使用本网站即表示您接受使用条款和隐私政策。本网站（'网站'）由皇家交易所运营。访问本网站及其任何页面，即表示您同意受其使用条款和隐私政策的约束。本网站旨在供个人使用，皇家交易所无法保证其页面上呈现的任何信息的完整性或准确性。皇家交易所不提供投资建议，也不提供法律或财务建议，任何通信不应视为对任何投资机会的推荐，且无法保证任何投资估值的准确性或任何投资机会适合特定投资者。"
+  }
+}

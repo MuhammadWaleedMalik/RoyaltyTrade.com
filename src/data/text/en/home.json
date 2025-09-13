@@ -1,0 +1,91 @@
+{
+  "hero": {
+    "title": "The World’s Largest Royalty Marketplace",
+    "subtitle": "Debt-free funding for creators.Financial Security. Artistic Freedom.",
+    "cta": "Get a Catalog Deal Estimate"
+  },
+  "partners": {
+    "title": "Trusted by Leading Brands"
+  },
+  "stats": {
+    "title": "Our Impact in Numbers",
+    "stats": [
+      {
+        "number": "$200M+",
+        "label": "Raised by Rightsholders"
+      },
+      {
+        "number": "2,300+",
+        "label": "Deals Completed"
+      }
+      
+    ]
+  },
+  "products": {
+    "title": "Featured Collection",
+    "items": [
+      {
+        "title": "LIFE OF RIGHTS",
+        "description": "Lil Baby, 42 Dugg , Quavo + More Publishing Royalities",
+        "price": "$400,000",
+        "link": "/product/1"
+      },
+      {
+        "title": "Fixed return",
+        "description": "Music of TV and Advertisment",
+        "price": "$150,000",
+        "link": "/product/2"
+      },
+      {
+        "title": "LIFE OF RIGHTS",
+        "description": "Music of TV and Advertisment" ,
+        "price": "OPEN",
+        "link": "/product/3"
+      },
+      {
+        "title": "LIFE OF RIGHTS",
+        "description": "AP Dhillon Abraham Mateo , Ana Mena + More Publishing Designs",
+        "price": "$450,000",
+        "link": "/product/4"
+      },
+      {
+        "title": "Limited Edition",
+        "description": "Exclusive timepiece with numbered edition and special packaging.",
+        "price": "$6,500",
+        "link": "/product/5"
+      }
+    ]
+  },
+  "services": {
+    "title": "What We Do",
+    "description": "Royalty Exchange matches creators seeking funding with investors seeking catalogs.  This gives creators the ability to raise money and fund their careers debt-free, and investors access to a new, high-yield asset class.",
+    "cta": ""
+  },
+  "dualImage": {
+    "leftTitle": "Music Creators ",
+    "leftSubtitle": "Rasie Money Debt Free Set your own terms ",
+    "leftCta": "Get a free estimate",
+    "rightTitle": "Investors",
+    "rightSubtitle": "Acessing Income-Generating asset Pre-vetted, Verified Listings",
+    "rightCta": "Explore Heritage"
+  },
+  "feature": {
+    "title": "the eXchange",
+    "subtitle": "The exchange is where deals happen. It is an open, transparent marketplace that connects creators with investors.",
+    "subtitle1" : "Join 30,000 registered investors and make offers directly on hundreds of royalty assets - from music catalogs to trademark royalties. New assets are listed weekly.",
+    "subtitle2" : "All listed assets have historical income, cleared for assignment by our team, and open for offers today." ,
+    "cta": "go to eXchange"
+  },
+  "newsletter": {
+    "title": "Get Deal Updates",
+    "subtitle": "Sign up to get notified of every deal that comes on the marketplace.",
+    "placeholder": "Enter your email",
+    "options": ["Investing", "Raising Money", "Collecting", "Gifting"],
+    "cta": "Subscribe"
+  },
+  "finalCta": {
+    "title": "Get started on Royalty Exchange",
+    "cta1": "Get a  Catalogue Estimate",
+    "cta2": "Create an investor account"
+  }
+}

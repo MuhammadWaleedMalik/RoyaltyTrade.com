@@ -1,0 +1,84 @@
+{
+  "hero": {
+    "title": "About {website.name}",
+    "description": "Transforming digital asset management through AI innovation.\nBuilding the future of content collaboration and workflow automation."
+  },
+  "mission": "We believe in the value of ideas and the power of markets.Too often, ideas are not valued properly or fairly… like music. That’s because the music industry was designed to benefit a well-entrenched few. It was a closed market that discouraged competition, obscured transparency, and directed the lion’s share of the value to the gatekeepers rather than to those who actually created the music.Only the top 1% of artists can survive closed systems like this, and when they do it’s in spite of it not because of it.We believe that the value of ideas should flow to all creators, not just gatekeepers or the 1%. So we created an open marketplace that gives any artist earning royalties the ability to share them with any investor interested in paying a fair price. The result is the only solution that serves the 99% of artists and investors previously ignored by the old system we’re disrupting.That’s the power of an open market… it directs value away from the entrenched interests and into the hands of those previously pushed to the margins—the creators.But open markets don’t just direct the value of ideas to the creators, they increase the value of those ideas as well.A commercially successful idea is the most meaningful currency of our time. It’s the only true competitive advantage left. Products break, materials dwindle, formats shift. But ideas endure. And that makes them incredibly valuable.Royalties are the tangible manifestation of these ideas. They are assets that can be bought, sold, and traded. Open markets make assets more valuable by providing transparency, price discovery, and competition needed to satisfy investor demand.The result is a win-win for everyone. Investors gain access to royalty assets previously unavailable to them, and the information they need to make informed decisions. Creators can then leverage this demand to find investors for their catalog at the best price possible, raising money without giving up their rights or going into debt.Our mission is to unlock the financial power of ideas through a transparent market that reduces the friction between ideas and their value.We don’t buy or sell royalties. We don’t provide advances or loans. We simply operate the marketplace where buyers and sellers meet and find the value they seek. The better this marketplace services both creators and investors, the healthier it becomes, and the better it serves everyone.After all, it’s not our marketplace… it’s yours.  ",
+  "team": {
+    "members": [
+      {
+        "name": "Jay Hajeer",
+        "title": "CEO & Founder",
+        "bio": "Visionary leader with 15+ years in AI and digital transformation. Founded {website.name} to revolutionize content management.",
+        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+      },
+      {
+        "name": "Sarah Chen",
+        "title": "Chief Technology Officer",
+        "bio": "AI expert with PhD in Computer Vision. Leads our technical innovation and product development.",
+        "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+      },
+      {
+        "name": "Michael Rodriguez",
+        "title": "Head of Product",
+        "bio": "Product strategist with passion for creating intuitive user experiences in complex systems.",
+        "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+      },
+      {
+        "name": "Emily Watson",
+        "title": "Lead AI Engineer",
+        "bio": "Machine learning specialist focused on developing our core AI classification algorithms.",
+        "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+      },
+      {
+        "name": "David Kim",
+        "title": "VP of Sales",
+        "bio": "Sales leader with expertise in scaling SaaS platforms and building customer relationships.",
+        "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+      },
+      {
+        "name": "Alexis Park",
+        "title": "UX Design Director",
+        "bio": "Award-winning designer creating seamless experiences between humans and AI systems.",
+        "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+      },
+      {
+        "name": "James Wilson",
+        "title": "Data Scientist",
+        "bio": "Builds the predictive models that power our intelligent content recommendation system.",
+        "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+      },
+      {
+        "name": "Olivia Martin",
+        "title": "Customer Success Lead",
+        "bio": "Ensures our clients maximize value from our platform through training and support.",
+        "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+      }
+    ]
+  },
+  "values": {
+    "items": [
+      {
+        "title": "Innovation",
+        "description": "We constantly push boundaries to develop cutting-edge solutions that transform digital asset management."
+      },
+      {
+        "title": "Customer Success",
+        "description": "Our clients' achievements define our success. We're committed to delivering measurable value."
+      },
+      {
+        "title": "Excellence",
+        "description": "We pursue excellence in everything we do, from code quality to customer support."
+      },
+      {
+        "title": "Collaboration",
+        "description": "We believe the best solutions emerge when diverse perspectives work together toward common goals."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Transform Your Digital Asset Management?",
+    "description": "Join thousands of companies using {website.name} to unlock the full potential of their digital content.",
+    "linkText": "Get Started Today"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "hero": {
+    "title": "El Mercado de Regalías Más Grande del Mundo",
+    "subtitle": "Financiación sin deudas para creadores. Seguridad financiera. Libertad artística.",
+    "cta": "Obtener una Estimación de Trato de Catálogo"
+  },
+  "partners": {
+    "title": "Confianza de Marcas Líderes"
+  },
+  "stats": {
+    "title": "Nuestro Impacto en Números",
+    "stats": [
+      {
+        "number": "$200M+",
+        "label": "Recaudado por Titulares de Derechos"
+      },
+      {
+        "number": "2,300+",
+        "label": "Tratos Completados"
+      }
+    ]
+  },
+  "products": {
+    "title": "Colección Destacada",
+    "items": [
+      {
+        "title": "VIDA DE DERECHOS",
+        "description": "Lil Baby, 42 Dugg, Quavo + Más Regalías de Publicación",
+        "price": "$400,000",
+        "link": "/product/1"
+      },
+      {
+        "title": "Retorno Fijo",
+        "description": "Música de TV y Publicidad",
+        "price": "$150,000",
+        "link": "/product/2"
+      },
+      {
+        "title": "VIDA DE DERECHOS",
+        "description": "Música de TV y Publicidad",
+        "price": "ABIERTO",
+        "link": "/product/3"
+      },
+      {
+        "title": "VIDA DE DERECHOS",
+        "description": "AP Dhillon Abraham Mateo, Ana Mena + Más Diseños de Publicación",
+        "price": "$450,000",
+        "link": "/product/4"
+      },
+      {
+        "title": "Edición Limitada",
+        "description": "Reloj exclusivo con edición numerada y empaque especial.",
+        "price": "$6,500",
+        "link": "/product/5"
+      }
+    ]
+  },
+  "services": {
+    "title": "Qué Hacemos",
+    "description": "Royalty Exchange conecta a creadores que buscan financiación con inversores que buscan catálogos. Esto permite a los creadores recaudar dinero y financiar sus carreras sin deudas, y a los inversores acceder a una nueva clase de activos de alto rendimiento.",
+    "cta": ""
+  },
+  "dualImage": {
+    "leftTitle": "Creadores de Música",
+    "leftSubtitle": "Recaude Dinero Sin Deudas Establezca sus propios términos",
+    "leftCta": "Obtener una estimación gratuita",
+    "rightTitle": "Inversores",
+    "rightSubtitle": "Acceso a Activos que Generan Ingresos Listados Pre-verificados y Verificados",
+    "rightCta": "Explorar Patrimonio"
+  },
+  "feature": {
+    "title": "el eXchange",
+    "subtitle": "El lugar donde se realizan los tratos. Es un mercado abierto y transparente que conecta a creadores con inversores.",
+    "subtitle1": "Únase a 30,000 inversores registrados y haga ofertas directamente en cientos de activos de regalías, desde catálogos musicales hasta regalías de marcas. Nuevos activos se listan semanalmente.",
+    "subtitle2": "Todos los activos listados tienen ingresos históricos, están aprobados para asignación por nuestro equipo y están abiertos para ofertas hoy.",
+    "cta": "ir a eXchange"
+  },
+  "newsletter": {
+    "title": "Obtener Actualizaciones de Tratos",
+    "subtitle": "Regístrese para ser notificado de cada trato que llegue al mercado.",
+    "placeholder": "Ingrese su correo electrónico",
+    "options": ["Inversión", "Recaudar Dinero", "Coleccionando", "Regalando"],
+    "cta": "Suscribirse"
+  },
+  "finalCta": {
+    "title": "Comience en Royalty Exchange",
+    "cta1": "Obtener una Estimación de Catálogo",
+    "cta2": "Crear una cuenta de inversor"
+  }
+}

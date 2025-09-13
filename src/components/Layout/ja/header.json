@@ -1,0 +1,16 @@
+{
+  "logoAlt": "{websiteName} ロゴ",
+  "nav": {
+    "listings": "リスト",
+    "getFunding": "資金調達",
+    "invest": "投資",
+    "blog": "ブログ",
+    "login": "ログイン",
+    "signup": "サインアップ",
+    "logout": "ログアウト"
+  },
+  "languageSelector": {
+    "heading": "言語",
+    "changeLanguageLabel": "言語を変更"
+  }
+} 

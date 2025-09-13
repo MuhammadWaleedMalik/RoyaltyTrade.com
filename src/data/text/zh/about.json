@@ -1,0 +1,84 @@
+{
+  "hero": {
+    "title": "关于 {website.name}",
+    "description": "通过人工智能创新重塑数字资产管理。\n构建内容协作与工作流程自动化的未来。"
+  },
+  "mission": "我们相信创意的价值和市场的力量。但往往，创意并未得到合理或公平的价值认可……就像音乐产业一样。音乐行业的设计是为了让少数根深蒂固的群体受益，这是一个封闭的市场，阻碍竞争，缺乏透明度，并将大部分价值导向守门人，而不是那些真正创造音乐的人。只有前 1% 的艺术家能够在这样的封闭体系中生存下去，而且即便如此，也是靠自己的努力，而不是依赖体系。我们相信创意的价值应该流向所有创作者，而不仅仅是守门人或那 1%。因此，我们创建了一个开放的市场，让任何获得版税收入的艺术家都可以与愿意支付公平价格的投资者分享。结果就是唯一一个能够服务于过去被忽视的 99% 艺术家和投资者的解决方案。这就是开放市场的力量……它将价值从固有利益群体手中转移到曾被边缘化的创作者手中。但开放市场不仅仅是将创意的价值导向创作者，它还能提升这些创意的价值。一个商业上成功的创意是我们这个时代最有意义的货币。它是唯一真正的竞争优势。产品会损坏，材料会耗尽，格式会改变。但创意会永存，这使它们极其宝贵。版税是这些创意的有形体现。它们是可以被购买、出售和交易的资产。开放市场通过提供透明度、价格发现和竞争，使资产更有价值，以满足投资者的需求。结果是双赢。投资者获得了过去无法触及的版税资产，并拥有做出明智决策所需的信息。创作者则可以利用这种需求，以最佳价格为他们的作品找到投资者，从而筹集资金，而无需放弃权利或负债。我们的使命是通过透明的市场释放创意的金融力量，减少创意与价值之间的摩擦。我们不买卖版税，也不提供预付款或贷款。我们只是运营一个市场，让买家和卖家在此相遇并找到他们所寻求的价值。这个市场越能服务于创作者和投资者，它就会越健康，并更好地服务于所有人。毕竟，这不是我们的市场……而是你们的。",
+  "team": {
+    "members": [
+      {
+        "name": "Jay Hajeer",
+        "title": "首席执行官 & 创始人",
+        "bio": "拥有 15+ 年 AI 和数字化转型经验的远见领导者。创立 {website.name} 以革新内容管理。",
+        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+      },
+      {
+        "name": "Sarah Chen",
+        "title": "首席技术官",
+        "bio": "计算机视觉博士，人工智能专家。负责我们的技术创新和产品开发。",
+        "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+      },
+      {
+        "name": "Michael Rodriguez",
+        "title": "产品负责人",
+        "bio": "产品战略专家，热衷于在复杂系统中打造直观的用户体验。",
+        "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+      },
+      {
+        "name": "Emily Watson",
+        "title": "首席 AI 工程师",
+        "bio": "机器学习专家，专注于开发我们的核心 AI 分类算法。",
+        "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+      },
+      {
+        "name": "David Kim",
+        "title": "销售副总裁",
+        "bio": "销售领导者，擅长扩展 SaaS 平台和建立客户关系。",
+        "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+      },
+      {
+        "name": "Alexis Park",
+        "title": "用户体验设计总监",
+        "bio": "获奖设计师，致力于在人类与 AI 系统之间创造无缝体验。",
+        "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+      },
+      {
+        "name": "James Wilson",
+        "title": "数据科学家",
+        "bio": "构建推动我们智能内容推荐系统的预测模型。",
+        "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+      },
+      {
+        "name": "Olivia Martin",
+        "title": "客户成功负责人",
+        "bio": "通过培训和支持，确保客户最大化利用我们的平台价值。",
+        "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+      }
+    ]
+  },
+  "values": {
+    "items": [
+      {
+        "title": "创新",
+        "description": "我们不断突破界限，开发前沿解决方案，重塑数字资产管理。"
+      },
+      {
+        "title": "客户成功",
+        "description": "客户的成就定义了我们的成功。我们致力于交付可衡量的价值。"
+      },
+      {
+        "title": "卓越",
+        "description": "我们在一切工作中追求卓越，从代码质量到客户支持。"
+      },
+      {
+        "title": "协作",
+        "description": "我们相信最佳的解决方案来源于不同观点为共同目标而合作。"
+      }
+    ]
+  },
+  "cta": {
+    "title": "准备好变革您的数字资产管理了吗？",
+    "description": "加入数千家使用 {website.name} 的公司，释放其数字内容的全部潜力。",
+    "linkText": "立即开始"
+  }
+}

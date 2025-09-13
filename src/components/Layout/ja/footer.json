@@ -1,0 +1,48 @@
+{
+  "brand": {
+    "nameAlt": "ロイヤルティ交換",
+    "slogan": ""
+  },
+  "sections": [
+    {
+      "title": "投資家",
+      "links": [
+        { "path": "/about-investing", "label": "投資について" },
+        { "path": "/how-royalties-work", "label": "ロイヤルティの仕組み" },
+        { "path": "/create-an-account", "label": "アカウント作成" }
+      ]
+    },
+    {
+      "title": "音楽クリエイター",
+      "links": [
+        { "path": "/how-it-works", "label": "仕組み" },
+        { "path": "/selling-royalties", "label": "ロイヤルティの売却" },
+        { "path": "/get-a-free-valuation", "label": "無料評価の取得" }
+      ]
+    },
+    {
+      "title": "会社",
+      "links": [
+        { "path": "/about", "label": "会社概要" },
+        { "path": "/company-news", "label": "企業ニュース" },
+        { "path": "/faq", "label": "よくある質問" },
+        { "path": "/contact-us", "label": "お問い合わせ" },
+        { "path": "/careers", "label": "採用情報" }
+      ]
+    }
+  ],
+  "social": {
+    "links": [
+      { "name": "Facebook", "link": "https://facebook.com" },
+      { "name": "X", "link": "https://x.com" },
+      { "name": "LinkedIn", "link": "https://linkedin.com" },
+      { "name": "YouTube", "link": "https://youtube.com" }
+    ]
+  },
+  "copyright": {
+    "text": "© 2021 ロイヤルティ交換。すべての権利を保有。",
+    "privacy": "アメリカ合衆国コロラド州デンバー市ラリマー通り1501号700室、郵便番号80202",
+    "cookies": "+1-800-718-2269",
+    "terms": "このウェブサイトの使用は、利用規約およびプライバシーポリシーの受諾を構成します。このウェブサイト（'サイト'）はロイヤルティ交換によって運営されています。サイトおよびそのページにアクセスすることで、利用規約およびプライバシーポリシーに拘束されることに同意したものとします。サイトは個人の使用を目的としており、ロイヤルティ交換はページに表示される情報の完全性または正確性を保証できません。ロイヤルティ交換は投資勧告を提供せず、法的または財務的な助言を提供せず、通信が投資機会の推奨とみなされるべきではなく、投資評価の正確性や特定の投資家に適した投資機会である保証はありません。"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "hero": {
+    "title": "Uncorrelated Yield. Passive Income.",
+    "description": "{website.name} gives both retail and institutional investors access to royalty streams previously available only to industry insiders, private equity, or institutional funds.",
+    "cta": "Create an Account"
+  },
+  "stats": [
+    {
+      "value": "13.3%+",
+      "label": "Average YIELD"
+    },
+    {
+      "value": "2,300+",
+      "label": "TRANSACTIONS COMPLETED"
+    },
+    {
+      "value": "$200M+",
+      "label": "Transaction Volume"
+    }
+  ],
+  "assets": {
+    "title": "Featured Assets",
+    "items": [
+      {
+        "title": "The Doobie Brothers' 'Black Water' and Other Songs",
+        "description": "Invest in the publishing royalties of this iconic music catalog.",
+        "term": "10 Years",
+        "royaltyType": "Publishing",
+        "price": "$160,000",
+        "multiple": "6.6x",
+        "yield": "15%"
+      },
+      {
+        "title": "1983 Comedy Classic Trading Places",
+        "description": "Own a share of the film residuals from this beloved comedy.",
+        "term": "Life of Rights",
+        "royaltyType": "Film Residuals",
+        "price": "$140,300",
+        "multiple": "17.5x",
+        "yield": "6%"
+      },
+      {
+        "title": "Children's Educational Materials",
+        "description": "Invest in trademark royalties for educational content.",
+        "term": "10 Years",
+        "royaltyType": "Trademark",
+        "price": "$1,047,500",
+        "multiple": "5.3x",
+        "yield": "19%"
+      }
+    ]
+  },
+  "whyRoyalties": {
+    "title": "Why Royalties Belong in Your Portfolio",
+    "items": [
+      {
+        "title": "Uncorrelated Assets",
+        "description": "Royalty payments, especially music royalties, perform independently of public markets, making them the purest form of alternative investment."
+      },
+      {
+        "title": "Competitive Yield",
+        "description": "Royalties have a track record of strong earnings, with the potential to deliver double-digit yields that rival bonds and dividend-paying stocks."
+      },
+      {
+        "title": "Passive Income",
+        "description": "Royalties let you earn money while you sleep. They are a 'cut off the top,' paid regularly, that put you first in line to receive the cash flows they generate."
+      }
+    ],
+    "cta": "Read the Investment Thesis"
+  },
+  "membership": {
+    "title": "All Access Membership",
+    "description": "Investors looking to build a portfolio of royalty assets quickly and successfully can upgrade to our exclusive All Access membership program. This gives members in-depth analysis and insights, elevated access to assets, heavy discounts, and more.",
+    "cta": "Explore the Membership",
+    "quote": {
+      "text": "Funds focused on music royalties are gaining traction as investors stray from the beaten path in a hunt for yield.",
+      "source": "Wall Street Journal, September 22, 2019"
+    }
+  },
+  "investing": {
+    "title": "Royalty Investing Made Easy",
+    "items": [
+      {
+        "title": "Asset Packaging",
+        "description": "{website.name} makes royalties investable by packaging them into familiar investment formats and horizons: Term Based (typically 10 years) and Life of Rights (lifetime of the creator PLUS 70 years)."
+      },
+      {
+        "title": "Valuation Support",
+        "description": "Understanding the key characteristics of royalty performance is critical to investing with confidence. {website.name} helps investors build a valuation methodology and determine position size through detailed performance metrics."
+      },
+      {
+        "title": "Risk Mitigation",
+        "description": "{website.name} vets and verifies all royalty opportunities before listing them on the marketplace. This minimizes ownership disputes. Our legally binding contracts reduce transaction risk."
+      },
+      {
+        "title": "Flexible Portfolio Development",
+        "description": "Acquire royalties directly from rightsholders or other investors. Make manual offers or leave standing offers filled automatically by incoming opportunities that meet your custom criteria."
+      }
+    ],
+    "cta": "See How Easy Investing Is"
+  },
+  "getStarted": {
+    "title": "Get Started Investing",
+    "items": [
+      "Be the first to know when new royalty investment opportunities are available (usually three/week)",
+      "Bid on auctions or make offers to other investors for royalty assets as they appear on the marketplace.",
+      "Access in-depth educational resources on royalty types, royalty investing, royalty news, and more."
+    ],
+    "cta": "Create a Free Account"
+  },
+  "exchange": {
+    "title": "The eXchange",
+    "description": "The eXchange is how we make hundreds of music catalogs available to our network for over 30,000 registered investors. Transparency is at the heart of every deal we make, that's why you can see every offer and every deal on the eXchange."
+  }
+}       

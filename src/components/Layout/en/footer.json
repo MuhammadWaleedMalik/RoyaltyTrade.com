@@ -1,0 +1,48 @@
+  {
+    "brand": {
+      "nameAlt": "Royalty Exchange",
+      "slogan": ""
+    },
+    "sections": [
+      {
+        "title": "Investors",
+        "links": [
+          { "path": "/about-investing", "label": "About Investing" },
+          { "path": "/how-royalties-work", "label": "How Royalties Work" },
+          { "path": "/create-an-account", "label": "Create an Account" }
+        ]
+      },
+      {
+        "title": "Music Creators",
+        "links": [
+          { "path": "/how-it-works", "label": "How it Works" },
+          { "path": "/selling-royalties", "label": "Selling Royalties" },
+          { "path": "/get-a-free-valuation", "label": "Get a Free Valuation" }
+        ]
+      },
+      {
+        "title": "Company",
+        "links": [
+          { "path": "/about", "label": "About" },
+          { "path": "/company-news", "label": "Company News" },
+          { "path": "/faq", "label": "FAQ" },
+          { "path": "/contact-us", "label": "Contact Us" },
+          { "path": "/careers", "label": "Careers" }
+        ]
+      }
+    ],
+    "social": {
+      "links": [
+        { "name": "Facebook", "link": "https://facebook.com" },
+        { "name": "X", "link": "https://x.com" },
+        { "name": "LinkedIn", "link": "https://linkedin.com" },
+        { "name": "YouTube", "link": "https://youtube.com" }
+      ]
+    },
+    "copyright": {
+      "text": "Copyright © 2021 Royalty Exchange. All Rights Reserved.",
+      "privacy": "1501 Larimer St. #700, Denver, CO 80202 U.S.",
+      "cookies": "+1-800-718-2269",
+      "terms": "Use of this website constitutes acceptance of the Terms of Use and Privacy Policy. This website (the 'Site') is operated by Royalty Exchange. By accessing the Site and any of its pages, you agree to be bound by its Terms of Use and Privacy Policy. The Site is intended for the personal use of its visitors and Royalty Exchange cannot guarantee the completeness or accuracy of any information presented on any of its pages. Royalty Exchange does not make investment recommendations or provide legal, financial advice or communication should be considered a recommendation of any investment opportunity and there can be no assurance that any investment valuation is accurate or that any investment opportunity is suitable for any particular investor."
+    }
+  }
