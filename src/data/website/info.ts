@@ -1,8 +1,8 @@
 import { WebsiteInfo } from '../../types';
 
 export const websiteInfo: WebsiteInfo = {
-  name: "waleed lohar",
-  slogan: "2D and 3D Game Developer",
+  name: "Royality Exchange",
+  slogan: "Exchange the Royality of your Assets",
   logo: "/images/assests/logo.png",
   favicon: "/images/assests/logo.png",
   linkedin : "d" ,
